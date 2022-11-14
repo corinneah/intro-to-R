@@ -1,4 +1,4 @@
-# intro-to-R
+# intro-to-R Assignment 8
 
 Part 1: Complete parts the following parts of the below tutorial: 1.1, 1.2, 1.3, 1.4, 2.1, 2.2, 2.3 locally on your own machine. When reviewing the written material, keep track of the code you write in either a .R or .RMD file that is saved in the GitHub repo. 
 
